@@ -4,7 +4,7 @@ Totalmente funcional para probar conexiones con el frontend.
 
 Requisitos para usar el repositorio:
 
-1- Instalar Python en su sistema\n
+1- Instalar Python en su sistema
 2- Clonar el repositorio (si desea), caso contrario copiar los archivos y carpetas en un directorio de su preferencia
 3- Generar un entorno virtual (puede usar el comando Python -m venv nombre_de_su_entorno_virtual)
 4- Activar su entorno virtual (puede usar el comando nombre_de_su_entorno_virtual\Scripts\activate)
