@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'userlist_project.wsgi.application'
 
 DATABASES = {
     'default': dj_database_url.config(
-        default='sqlite:///db.sqlite3',
+        default='postgres://postgres:Alomero11_0@localhost:5432/bd_userlist',
         conn_max_age=600
     )
 }
